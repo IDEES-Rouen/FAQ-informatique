@@ -4,7 +4,7 @@
 
 * [Introduction](README.md)
 * [Le domaine de l'université](introduction-domaine.md)
-* [Ou sont les espaces X: \(Universitaire\) et Z: \(Personnel\) ?](lecteurs-reseaux/ou-sont-les-espaces-x-\(universitaire\)-et-z-\(personnel\).md)
+* [Ou sont les espaces X: \(Universitaire\) et Z: \(Personnel\) ?](ou-lecteurs-reseaux.md)
 * [Comment fonctionne les espaces X: et Z: ? ](lecteurs-reseaux.md)
 
 ## Sauvegarde
