@@ -3,9 +3,9 @@
 ## Environnement de travail
 
 * [Introduction](README.md)
-* [Le domaine de l'université](introduction-domaine.md)
+* [Qu'est ce que le domaine de l'université ?](introduction-domaine.md)
 * [Ou sont les espaces X: \(Universitaire\) et Z: \(Personnel\) ?](ou-lecteurs-reseaux.md)
-* [Comment fonctionne les espaces X: et Z: ? ](lecteurs-reseaux.md)
+* [Comment fonctionne plus précisément les espaces X: et Z: ? ](lecteurs-reseaux.md)
 
 ## Sauvegarde(s)
 
