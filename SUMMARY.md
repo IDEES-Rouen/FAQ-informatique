@@ -3,11 +3,12 @@
 ## Environnement de travail
 
 * [Introduction](README.md)
-* [Qu'est ce que le domaine de l'université ?](introduction-domaine.md)
-* [Ou sont les espaces X: \(Universitaire\) et Z: \(Personnel\) ?](ou-lecteurs-reseaux.md)
+* [Qu'est ce que le domaine de l'université de Rouen et pourquoi est ce bien de l'intégrer ?](introduction-domaine.md)
+* [Comment être administrateur de sa machine tout en étant dans le domaine ?](domaine-administrateur)
+* [Comment accéder aux espaces X: \(Universitaire\) et Z: \(Personnel\) ?](ou-lecteurs-reseaux.md)
 * [Comment fonctionne plus précisément les espaces X: et Z: ? ](lecteurs-reseaux.md)
 
-## Sauvegarde(s)
+## Sauvegarde\(s\)
 
 * [Qu'est ce qu'une sauvegarde \(backup\)?](sauvegarde_definition.md)
 * [Sauvegarder des données sur l'espace utilisateur Z: \(windows\) ?](sauvegarde-sur-z.md)
@@ -18,15 +19,8 @@
 * [Eduroam ne marche plus en dehors de l'université de Rouen, pourquoi ?](eduroam-connection.md)
 * [Je veux accéder a X et Z hors réseau de l'université ?](reseau-VPN.md)
 
+## Sécurité
 
-
-
-
-
-
-
-
-
-
-
+* [Je ne connais rien à la sécurité informatique, ou puis je me documenter ?](securite-liens.md)
+* [Comment chiffrer mes données pour les protéger ?](proteger-donnees.md)
 
