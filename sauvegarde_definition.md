@@ -5,9 +5,9 @@ Pour miminiser les risques de pertes de données, il est recommandé de suivre *
 - 2 formats de sauvegarde 
 - 1 copie hors ligne
 
-Le minimum est déjà d'avoir une stratégie de sauvegarde complétement automatisé qui sauvegarde le contenu de vos données sur le **Data Center** de l'université. Cette infrastructure est régulièrement testé, et le contenu sauvegardé de multiple fois, vous pouvez donc avoir confiance dans ce stockage.
+Le minimum est déjà d'avoir une stratégie de sauvegarde complétement automatisé qui sauvegarde le contenu de vos données sur le **Data Center** de l'université. Cette infrastructure est régulièrement testé, et le contenu sauvegardé de multiple fois, vous pouvez donc avoir confiance dans ce stockage pour vos données.
 
-Quelques logiciels spécialisés dans la sauvegarde : 
+Voici une liste non exhaustive de logiciels spécialisés dans la sauvegarde : 
 
 - SyncBack Free (Windows)
 - Bacula
@@ -15,4 +15,5 @@ Quelques logiciels spécialisés dans la sauvegarde :
 - TimeCapsule (MacOSX)
 - etc.
 
+Par défaut les tutoriels de cette FAQ sont réalisés avec Synback Free.
 
