@@ -18,6 +18,15 @@
 
 * [Eduroam ne marche plus en dehors de l'université de Rouen, pourquoi ?](eduroam-connection.md)
 
+* [Je veux accéder a X et Z hors réseau de l'université ?](reseau-VPN.md)
+
+
+
+
+
+
+
+
 
 
 
