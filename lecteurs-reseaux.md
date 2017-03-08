@@ -1,13 +1,5 @@
 
-Lorsque vous vous connectez à votre session multipass, dans l'explorateur de fichier de votre système, vous pouvez voir deux lecteurs réseaux nommés **Espace Universitaire (X:)** et **Espace Personnel(Z:)**. 
 
-Si ce n'est pas le cas, reportez vous d'abord à la section de ce document expliquant comment se connecter manuellement à ces deux espaces.
-
-## Comment fonctionne les espaces X et Z ? 
-
-![arborescence.JPG](images/arborescence.JPG)
-
-Ces deux espaces (X et Z) ne sont pas localisés sur le disque dur de votre ordinateur, mais dans le _Data Center_ de l'université de Rouen.
 
 Ce _Data Center_ qui contient les différents serveurs et données de l'université est lui-même régulièrement sauvegardé et testé, ce qui en fait un espace de stockage relativement sûr pour l'ensemble de vos sauvegardes personnelles.
 
@@ -32,10 +24,4 @@ L'espace universitaire X: permet d'accéder à la fois d'accéder aux repertoire
 Tout membre de l'UMR sur le site de Rouen peut avoir accès en lecture et/ou écriture à l'espace **Recherche** et aux différents groupes qu'il contient. Pour en savoir plus, le mieux est de contacter l'équipe liaison.
 
 Il est important de noter que ces espaces ne sont pas directement  accessible en dehors du réseau de l'université, à part si vous installez et utilisez un VPN.
-
-## Je ne vois pas les lecteurs réseaux
-
-### sous windows
- 
-### sous MacOsx 
 

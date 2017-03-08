@@ -1,10 +1,8 @@
 
-## Vous ne disposez pas de moyen de sauvegarde existant
-
-Vous ne disposez pas de sauvegarde ou de moyen de sauvegarde, mais votre ordinateur est dans le domaine de l'université \( vous utilisez pour vous connecter à votre session le compte multipass\).
+Vous ne disposez pas de sauvegarde ou de moyen de sauvegarde, mais votre ordinateur est dans le domaine de l'université ( vous utilisez pour vous connecter à votre session le compte **multipass**).
 
 
-Voici un tutorial simple basé sur le logiciel gratuit SyncBack sous Windows, déjà pré-installé si vous utilisez l'image IRED.
+Voici un tutorial simple basé sur le logiciel gratuit **SyncBack** sous Windows, déjà pré-installé si vous utilisez l'image IRED.
 
 Si ce n'est pas déjà fait par défaut sur votre poste, vous pouvez installer la version gratuite du logiciel de backup proposé par Brighsparks, compatible avec de nombreuses version de Windows : [SyncBackFree](https://www.2brightsparks.com/freeware/index.html)
 
@@ -26,7 +24,7 @@ Avant validation, vérifier que la source de la sauvegarde ainsi que la destinat
 
 La fenetre de paramétrage de profil s'ouvre ensuite. C'est dans celle-ci que la plupart des options de notre sauvegarde peuvent être modifié. Il existe un mode simple et mode avancé (utilisateur avertis). 
 
-#### Definir la source et la destination 
+## Definir la source et la destination 
 
 Pour configurer la source **Source** puis la **Destination** de nos sauvegardes, il suffit de cliquer sur chacun des dossiers jaune. 
 
@@ -34,7 +32,7 @@ Pour configurer la source **Source** puis la **Destination** de nos sauvegardes,
 
 Nous avons ici défini que l'ensemble du contenu existant dans le dossier **DATATOBACKUP** du disque dur local **D:\\** serait copié dans le dossier **BACKUP_dunwhich** du l'espace personnel distant **Z:\\**
 
-#### Définir la fréquence des sauvegardes
+## Définir la fréquence des sauvegardes
 
 ![tacheplanifier.JPG](images/tacheplanifier.JPG)
 
@@ -62,12 +60,9 @@ Attention lors d'une execution manuelle comme nous venons de le faire, le logici
 
 Nous vous conseillons de vérifier la bonne marche de cette sauvegarde les premiers jours/premières semaines, selon comment vous avez régler la périodicité de vos sauvegardes.
 
-#### Automatiser l'exécution du logiciel au démarrage 
+## Automatiser l'exécution du logiciel au démarrage 
 
 Comme nous l'avons dit tout à l'heure, une sauvegarde n'a d'interet que si elle est automatisé et transparente pour l'utilisateur. L'objectif est d'oublier l'existence même de celle-ci. Il est nécessaire d'indiquer au logiciel de se lancer au démarrage de Windows pour ne pas avoir à le faire manuellement.
 
 Vous pouvez aller dans les préférences du logiciel, à l'onglet simple, pour cocher la case **Démarrer avec Windows**. Faites **ok**, puis fermer le logiciel en cliquant sur la croix, ce qui devrait en réalité minimiser l'application dans la barre des tâches.
 
-
-
-## Vous disposez d'un moyen de sauvegarde 
