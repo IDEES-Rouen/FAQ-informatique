@@ -1,3 +1,3 @@
-Le compte **multipass** permet d'accéder à tout un ensemble de services de l'université. Les étudiants, personnels de l'université de Rouen bénéficie tous d'une LéoCarte auquel est associé un compte multipass. 
+Les étudiants, personnels de l'université de Rouen bénéficie tous d'une LéoCarte auquel est associé un compte **multipass**. Si la carte permet déjà d'accéder de façon physique à un certain nombre de services (Restauration, Bibliothèque, Photocopieur), les identifiants et le mot de passe lié à cette carte permet également d'avoir accès à de nombreux services informatiques de l'université.
 
-https://multipass.univ-rouen.fr/
+Les différentes opérations (perte ou modification du mot de passe, activation, etc.) peuvent être géré par le biais du portail internet [multipass](https://multipass.univ-rouen.fr/).
