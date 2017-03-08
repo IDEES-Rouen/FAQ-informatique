@@ -4,7 +4,10 @@ Le mieux pour installer les informations nécessaires pour le fonctionnement d'E
 
 Avant le téléchargement le site va vous demander de saisir votre établissement. Faite bien attention à selectionner **Université de Rouen** sinon vous ne pourrez pas vous connectez à Eduroam. 
 
+![EduroamRouen](images/eduroam_rouen.png)
 
+Une fois le logiciel **cat** téléchargé sur votre ordinateur, lancez le. Celui-ci va vous demander de saisir votre identifiant et votre mot de passe **multipass**. 
 
-Une fois le logiciel **cat** téléchargé sur votre ordinateur, lancez le. Celui-ci va vous demander de saisir votre identifiant et votre mot de passe **multipass**.
+Faite bien attention à préciser le **login** sous la forme suivante, en remplacant **votreloginmultipass** par votre propre login personnel : **votreloginmultipass@univ-rouen.fr** 
+
 
