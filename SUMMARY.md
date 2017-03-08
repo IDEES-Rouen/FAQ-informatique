@@ -10,17 +10,20 @@
 
 ## Sauvegarde\(s\)
 
-* [Qu'est ce qu'une sauvegarde \(backup\)?](sauvegarde_definition.md)
+* [Qu'est ce qu'une sauvegarde exactement \(backup\)?](sauvegarde_definition.md)
 * [Sauvegarder des données sur l'espace utilisateur Z: \(windows\) ?](sauvegarde-sur-z.md)
 
 ## Réseau intra et extra université
 
 * [Je veux installer eduroam sur mon ordinateur, comment faire ?](eduroam-nouvelle-installation.md)
 * [Eduroam ne marche plus en dehors de l'université de Rouen, pourquoi ?](eduroam-connection.md)
-* [Je veux accéder a X et Z hors réseau de l'université ?](reseau-VPN.md)
+* [Je veux accéder a X et Z hors réseau de l'université, comment faire ?](reseau-VPN.md)
 
 ## Sécurité
 
 * [Je ne connais rien à la sécurité informatique, ou puis je me documenter ?](securite-liens.md)
 * [Comment chiffrer mes données pour les protéger ?](proteger-donnees.md)
+
+
+
 
