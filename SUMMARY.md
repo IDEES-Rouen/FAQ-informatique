@@ -1,11 +1,10 @@
 # Summary
 
-* [Introduction](README.md)
-
 ## Environnement de travail
 
+* [Introduction](README.md)
 * [Le domaine de l'université](introduction-domaine.md)
-* [Accéder aux lecteurs réseaux X:\ et Z:\](lecteurs-reseaux.md)
+* [Accéder aux lecteurs réseaux X: et Z:\](lecteurs-reseaux.md)
 
 ## Sauvegarde
 
