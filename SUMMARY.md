@@ -4,6 +4,7 @@
 
 * [Introduction](README.md)
 * [Qu'est ce que le domaine de l'université de Rouen et pourquoi est ce bien de l'intégrer ?](introduction-domaine.md)
+* [Qu'est ce qu'un compte multipass ?](multipass.md)
 * [Comment être administrateur de sa machine tout en étant dans le domaine ?](domaine-administrateur.md)
 * [Comment accéder aux espaces X: \(Universitaire\) et Z: \(Personnel\) ?](ou-lecteurs-reseaux.md)
 * [Comment fonctionne plus précisément les espaces X: et Z: ? ](lecteurs-reseaux.md)
