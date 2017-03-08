@@ -1,1 +1,2 @@
-This is the answer to "How can I do X?".
+Vous ne disposez pas de sauvegarde ou de moyen de sauvegarde, mais votre ordinateur est dans le domaine de l'université \( vous utilisez pour vous connecter à votre session le compte multipass\).
+
