@@ -15,7 +15,6 @@
 * [Sauvegarder des données sur l'espace utilisateur Z: \(windows\) ?](sauvegarde-sur-z.md)
 * [Comment ouvrir un groupe de partage dans l'espace X: de Recherche ?](groupe-recherche.md)
 * [Quels sont les services de partage de type Dropbox/Drive à notre disposition à l'UMR ?](synchro-like-univ.md)
-* [Comment ouvrir un groupe de partage dans l'espace X: de Recherche ?](groupe-recherche.md) 
 * [Comment installer l'outil Cnrs ?](synchro-cnrs.md)
 * [Comment installer l'outil de l'université ?](synchro-univ.md)
 
