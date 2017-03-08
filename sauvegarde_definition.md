@@ -15,5 +15,5 @@ Voici une liste non exhaustive de logiciels spécialisés dans la sauvegarde :
 - TimeCapsule (MacOSX)
 - etc.
 
-Par défaut les tutoriels de cette FAQ sont réalisés avec Synback Free.
+Par défaut les tutoriels de cette FAQ sont réalisés avec Synback Free pour Windows.
 
