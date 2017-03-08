@@ -11,7 +11,7 @@
 
 ## Sauvegarde\(s\)
 
-* [Qu'est ce qu'une sauvegarde exactement \(backup\)?](sauvegarde_definition.md)
+* [Qu'est ce qu'une sauvegarde \(backup\) et en quoi est ce différent d'une synchronisation ?](sauvegarde_definition.md)
 * [Sauvegarder des données sur l'espace utilisateur Z: \(windows\) ?](sauvegarde-sur-z.md)
 
 ## Réseau intra et extra université
