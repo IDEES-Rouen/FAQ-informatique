@@ -3,7 +3,7 @@ Lorsque vous vous connectez à votre session multipass, dans l'explorateur de fi
 
 Si ce n'est pas le cas, reportez vous d'abord à la section de ce document expliquant comment se connecter manuellement à ces deux espaces.
 
-## Introduction aux espaces X et Z 
+## Comment fonctionne les espaces X et Z ? 
 
 ![arborescence.JPG](images/arborescence.JPG)
 
