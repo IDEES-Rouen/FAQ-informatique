@@ -2,4 +2,4 @@ Lorsque vous vous connectez à votre session **multipass** vous pouvez voir appa
 
 ![arborescence.JPG](images/arborescence.JPG)
 
-Ces deux espaces (X et Z) ne sont pas localisés sur le disque dur de votre ordinateur, mais dans le _Data Center_ de l'université de Rouen.
+Ces deux espaces (X et Z) ne sont pas localisés sur le disque dur de votre ordinateur, mais dans le _Data Center_ de l'université de Rouen. Plus d'information est disponible dans la FAQ correspondante.
