@@ -24,8 +24,8 @@ La machine auquel Tyler a accès dans son bureau est raccordé au domaine de l'u
 
 Pour que Tyler Dupree ait la possibilité d'installer des logiciels, l'équipe liaison de son service a également créé un compte administrateur local sur cette machine, avec un login et un mot de passe générique différent du compte multipass. Comme Tyler veut un mot de passe personalisé, il change tout de suite le mot de passe de cette session locale administrateur.
 
-login : tyler
-mot de passe : 42spinAxis
+- login : tyler
+- mot de passe : 42spinAxis
 
 Ainsi, tout en continuant à utiliser sa session multipass du domaine de l'université qui lui permet d'accéder aux lecteurs réseaux et à la photocopieuse, Tyler a aussi la possibilité à présent de renseigner la **fenêtre d'élévation de privilège** avec les informations de son compte administrateur local, ce qui lui permet de configurer sa machine ou d'installer des logiciels.
 
@@ -33,7 +33,12 @@ Dans cette **fenêtre d'élévation de privilège**, nous choisissons d'utiliser
 
 ![privilege](/images/useraccountcontrol.svg)
 
-Tyler doit donc ensuite saisir **.\tyler** comme login, et **42spinAxis** comme mot de passe. Le signe **.\** devant le login permet d'indiquer que l'on cherche non pas un utilisateur dans le domaine (**ur**), mais sur l'ordinateur local.
+Tyler doit ensuite saisir les informations suivantes :
+
+ - **.\tyler** comme login,
+ - **42spinAxis** comme mot de passe. 
+
+Le signe **.\** devant le login permet d'indiquer que l'on cherche non pas un utilisateur dans le domaine (**ur**), mais sur l'ordinateur local.
 
 
  
