@@ -20,7 +20,7 @@
 
 ## Réseau intra et extra université
 
-* [Ajouter les espaces universitaires X: et Z: sans être dans le domaine ](ajouter-les-espaces-universitaires-x-et-z-sans-etre-dans-le-domaine.md)
+* [Comment ajouter les espaces universitaires X: et Z: sur mon ordinateur sans être dans le domaine ?](ajouter-les-espaces-universitaires-x-et-z-sans-etre-dans-le-domaine.md)
 * [Je veux \(ré\)installer Eduroam sur mon ordinateur, comment faire ?](eduroam-nouvelle-installation.md)
 * [Eduroam ne marche pas/plus en dehors de l'université de Rouen, pourquoi ?](eduroam-connection.md)
 * [Je veux accéder aux espaces X: et Z: hors du réseau de l'université, comment faire ? \(MacOSX, Windows\)](reseau-VPN.md)

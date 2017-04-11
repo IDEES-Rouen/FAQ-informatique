@@ -2,7 +2,7 @@ Pour accéder aux différents services de l'université en dehors du réseau de 
 
 Liens de l'installeur VPN : 
 - [Windows 64 bit](http://communaute-universitaire.univ-rouen.fr/medias/fichier/ps-pulse-win-5-2r6-0-b977-64bitinstaller_1482848836979-msi)
-- MacOSX
+- [MacOSX](http://communaute-universitaire.univ-rouen.fr/medias/fichier/ps-pulse-mac-5-2r6-0-b977-installer_1482849142048-dmg)
 - Linux
 
 Une fois téléchargé, installez **PulseSecure **sur votre ordinateur. Celui-ci demande un accès administrateur, au moins temporaire.
