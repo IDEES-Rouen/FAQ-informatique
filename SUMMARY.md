@@ -9,7 +9,7 @@
 * [Comment accéder aux espaces X: \(Universitaire\) et Z: \(Personnel\) ?](ou-lecteurs-reseaux.md)
 * [Comment fonctionne plus précisément les espaces X: et Z: ? ](lecteurs-reseaux.md)
 
-## Sauvegarde\(s\) et Synchronisation(s)
+## Sauvegarde\(s\) et Synchronisation\(s\)
 
 * [Qu'est ce qu'une sauvegarde \(backup\) et en quoi est ce différent d'une synchronisation ?](sauvegarde_definition.md)
 * [Sauvegarder des données sur l'espace utilisateur Z: \(windows\) ?](sauvegarde-sur-z.md)
@@ -20,15 +20,12 @@
 
 ## Réseau intra et extra université
 
-* [Je veux (re)installer Eduroam sur mon ordinateur, comment faire ?](eduroam-nouvelle-installation.md)
+* [Je veux \(re\)installer Eduroam sur mon ordinateur, comment faire ?](eduroam-nouvelle-installation.md)
 * [Eduroam ne marche pas/plus en dehors de l'université de Rouen, pourquoi ?](eduroam-connection.md)
-* [Je veux accéder aux espaces X: et Z: hors du réseau de l'université, comment faire ?](reseau-VPN.md)
+* [Je veux accéder aux espaces X: et Z: hors du réseau de l'université, comment faire ? \(MacOSX, Windows\)](reseau-VPN.md)
 
 ## Sécurité
 
 * [Je ne connais rien à la sécurité informatique, ou puis je me documenter ?](securite-liens.md)
 * [Comment chiffrer mes données pour les protéger ?](proteger-donnees.md)
-
-
-
 
