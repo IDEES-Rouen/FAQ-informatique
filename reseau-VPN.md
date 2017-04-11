@@ -17,7 +17,7 @@ Saississez les informations suivantes pour l'URL du serveur : **vpn.univ-rouen.f
 
 ![pulseSecure](/images/pulsesecure3.jpg)
 
-Cliquez ensuite sur le bouton **Connexion**, une fenetre s'ouvre alors et vous demande de saisir votre nom d'utilisateur et votre mot de passe multipass. Pour notre compte multipass exemple Tyler Duprey, nous saisissons comme login **dupretyl**, et comme mot de passe **spin**
+Cliquez ensuite sur le bouton **Connexion**, une fenetre s'ouvre alors et vous demande de saisir votre nom d'utilisateur et votre mot de passe multipass. Pour notre compte multipass exemple Tyler Duprey, nous saisissons comme login **dupretyl**, et comme mot de passe **42spinAxis**
 
 ![pulseSecure](/images/pulsesecure4.jpg)
 
