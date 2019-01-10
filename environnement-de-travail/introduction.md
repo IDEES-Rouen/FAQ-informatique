@@ -6,7 +6,7 @@ Bienvenu sur la base de documentation informatique de l'UMR IDEES.
 
 Pour la plupart des exemples nous utiliserons une identité fictive travaillant à l'université de Rouen suivante :
 
-![LeoCarteTylerDupree](.gitbook/assets/tylerdupree.svg)
+![LeoCarteTylerDupree](../.gitbook/assets/tylerdupree.svg)
 
 **Tyler Dupree** possède en effet un compte **multipass** de :
 
