@@ -14,6 +14,7 @@
 ## Sauvegarde\(s\) et Synchronisation\(s\)
 
 * [Qu'est ce qu'une sauvegarde \(backup\) et en quoi est ce différent d'une synchronisation ?](sauvegarde-s-et-synchronisation-s/quest-ce-quune-sauvegarde-backup-et-en-quoi-est-ce-different-dune-synchronisation.md)
+* [Sauvegarde des données sur l'espace utilisateur Z: \(Linux\)](sauvegarde-s-et-synchronisation-s/sauvegarde-des-donnees-sur-lespace-utilisateur-z-linux.md)
 * [Sauvegarder des données sur l'espace utilisateur Z: \(Windows\) ?](sauvegarde-s-et-synchronisation-s/sauvegarder-des-donnees-sur-lespace-utilisateur-z-windows.md)
 * [Comment ouvrir un groupe de partage dans l'espace X: de Recherche ?](sauvegarde-s-et-synchronisation-s/comment-ouvrir-un-groupe-de-partage-dans-lespace-x-de-recherche.md)
 * [Quels sont les services de partage de type Dropbox/Drive à notre disposition à l'UMR ?](sauvegarde-s-et-synchronisation-s/quels-sont-les-services-de-partage-de-type-dropbox-drive-a-notre-disposition-a-lumr.md)
